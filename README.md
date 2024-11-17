@@ -39,4 +39,4 @@ The target column is a binary variable indicating whether the individual has hea
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/prashantsaini1525/Heart-Disease-Predicition.git
+https://github.com/prashantsaini1525/Heart-Disease-Predicition.git
