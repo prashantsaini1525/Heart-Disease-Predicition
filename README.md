@@ -37,5 +37,5 @@ The target column is a binary variable indicating whether the individual has hea
 
 ## Installation
 
-1. Clone this repository: https://github.com/prashantsaini1525/Heart-Disease-Predicition.git
+1. Clone this repository: ```sh https://github.com/prashantsaini1525/Heart-Disease-Predicition.git
  
