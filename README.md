@@ -38,6 +38,6 @@ The target column is a binary variable indicating whether the individual has hea
 ## Installation
 
 1. Clone this repository:
-2. <div align="center">
+<div align="center">
   <pre><code>https://github.com/prashantsaini1525/Heart-Disease-Predicition.git</code></pre>
 </div> 
