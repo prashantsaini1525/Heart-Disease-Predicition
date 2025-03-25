@@ -41,3 +41,6 @@ The target column is a binary variable indicating whether the individual has hea
 <div align="center">
   <pre><code>https://github.com/prashantsaini1525/Heart-Disease-Predicition.git</code></pre>
 </div> 
+
+## 📄 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
